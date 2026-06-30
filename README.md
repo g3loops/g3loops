@@ -73,5 +73,5 @@ Coursework: Data Management, Advanced Statistics, Machine Learning, FinTech, Clo
 
 ## 📬 How to reach me
 
-**LinkedIn:** <ADD-YOUR-LINKEDIN-URL>
+**LinkedIn:** https://www.linkedin.com/in/gayathri-valsalakumari
 **GitHub:** https://github.com/g3loops
